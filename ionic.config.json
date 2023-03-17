@@ -1,0 +1,7 @@
+{
+    "name": "Cinene",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }

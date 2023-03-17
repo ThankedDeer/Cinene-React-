@@ -1,0 +1,70 @@
+#carousel{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+#padVideo{
+    height: 50pc;
+   
+    
+}
+#imgcard{
+    height:40vh ;
+    width: auto;
+}
+ 
+/* *{border: 1px red solid;} */
+
+section{
+    height: 45pc ;
+}
+.carusel{
+    font-size: 1vw;
+    
+}
+#laloo{
+    margin: 2vw;
+}
+.carta{
+    margin: 10px;
+    font-size: 1vw;
+    padding: 0px;
+
+    
+}
+#padVideo{
+    margin: 200px;
+}
+@media screen and (max-width: 620px) {
+
+    .carta{
+        font-size: 4vw;
+    
+        
+    }
+}
+@media screen and (max-width: 768px) {
+
+    .carta{
+        font-size: 2vw;
+    
+        
+    }
+    .carusel{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 320px) {
+
+    .carta{
+        font-size: 4vw;
+    
+        
+    }
+    .carusel{
+        font-size: 10px;
+    }
+}
